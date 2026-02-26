@@ -1,11 +1,47 @@
 [
   {
-    "image": "https://raw.githubusercontent.com/YOUR_USERNAME/newsletter-content/main/images/news1.jpg",
-    "title": "Exciting News 1",
-    "subline": "Subheadline here",
+    "image": "https://github.com/felixbueschelmann-dev/newsletter/blob/main/IMG_News1.png",
+    "title": "Artikel 1 Lorem ipsum",
+    "subline": "H3 – Subline Lorem ipsum",
     "text": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Second paragraph goes here."
+      "Second paragraph goes here.",
+      "Third goes here.",
+      "Fourth goes here.",
+      "Fifth goes here.",
+      "Sixth goes here."
+    ]
+  }
+]
+
+[
+  {
+    "image": "https://github.com/felixbueschelmann-dev/newsletter/blob/main/IMG_News2.png",
+    "title": "Artikel 2 Lorem ipsum",
+    "subline": "H3 – Subline Lorem ipsum",
+    "text": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Second paragraph goes here.",
+      "Third goes here.",
+      "Fourth goes here.",
+      "Fifth goes here.",
+      "Sixth goes here."
+    ]
+  }
+]
+
+[
+  {
+    "image": "https://github.com/felixbueschelmann-dev/newsletter/blob/main/IMG_News3.png",
+    "title": "Artikel 3 Lorem ipsum",
+    "subline": "H3 – Subline Lorem ipsum",
+    "text": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Second paragraph goes here.",
+      "Third goes here.",
+      "Fourth goes here.",
+      "Fifth goes here.",
+      "Sixth goes here."
     ]
   }
 ]
