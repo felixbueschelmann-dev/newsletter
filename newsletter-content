@@ -1,1 +1,11 @@
-
+[
+  {
+    "image": "https://raw.githubusercontent.com/YOUR_USERNAME/newsletter-content/main/images/news1.jpg",
+    "title": "Exciting News 1",
+    "subline": "Subheadline here",
+    "text": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Second paragraph goes here."
+    ]
+  }
+]
